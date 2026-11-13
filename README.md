@@ -1,16 +1,27 @@
-## Hi there 👋
+# Construindo ideias com código 🚀
 
-<!--
-**mpferrari7/mpferrari7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Sou `mpferrari7` e tenho interesse em Python, APIs e soluções para
+monitoramento de Machine Learning.
 
-Here are some ideas to get you started:
+## Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`Python` · `FastAPI` · `SQLAlchemy` · `PostgreSQL` · `Docker` · `Tkinter`
+
+## Projeto em destaque
+
+### Monitoramento de modelos de Machine Learning
+
+Uma aplicação para cadastrar modelos, registrar execuções de monitoramento e
+acompanhar métricas com alertas por limite. A solução combina uma API REST com
+uma interface desktop e PostgreSQL.
+
+## No que estou trabalhando
+
+- APIs REST com FastAPI
+- Organização de aplicações em camadas
+- Persistência de dados com PostgreSQL e SQLAlchemy
+- Containerização com Docker Compose
+
+---
+
+Obrigado por visitar meu perfil!
