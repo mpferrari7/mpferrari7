@@ -1,26 +1,18 @@
 # Construindo ideias com código 🚀
 
-Olá! Sou `mpferrari7` e tenho interesse em Python, APIs e soluções para
-monitoramento de Machine Learning.
+Olá! Sou `mpferrari7` e tenho interesse em desenvolver soluções úteis com
+Python e APIs.
 
 ## Tecnologias
 
-`Python` · `FastAPI` · `SQLAlchemy` · `PostgreSQL` · `Docker` · `Tkinter`
+`Python` · `FastAPI` · `SQLAlchemy` · `SQLite` · `Pytest` · `Docker Compose`
 
 ## Projeto em destaque
 
-### Monitoramento de modelos de Machine Learning
+### [VagaPulse](https://github.com/mpferrari7/vagapulse)
 
-Uma aplicação para cadastrar modelos, registrar execuções de monitoramento e
-acompanhar métricas com alertas por limite. A solução combina uma API REST com
-uma interface desktop e PostgreSQL.
-
-## No que estou trabalhando
-
-- APIs REST com FastAPI
-- Organização de aplicações em camadas
-- Persistência de dados com PostgreSQL e SQLAlchemy
-- Containerização com Docker Compose
+API REST para organizar candidaturas a vagas, validar etapas de processos
+seletivos, acompanhar indicadores e exportar dados para CSV.
 
 ---
 
